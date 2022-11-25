@@ -1,0 +1,379 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+body{
+    height: max-content;
+    background-image: url(https://images.wallpapersden.com/image/download/artistic-retro-wave-4k_bWdsZWaUmZqaraWkpJRobWllrWdma2U.jpg);
+    background-size:contain;
+}
+
+.uptitle{
+    font-size: medium;
+    margin-left: 300px;
+    margin-top: 50px;
+    color: rgba(0, 219, 235, 0.644);
+    font-style: italic;
+    text-align: start;
+}
+.title1{
+    font-size: 50px;
+    font-style: italic;
+    color: rgb(0, 0, 0);
+    margin-left: 100px;
+}
+.download{
+    width: fit-content;
+    position: relative;
+    margin-bottom: 2%;
+}
+.download a{
+    font-size: 28px;
+    color: rgb(0, 0, 0) ;
+}
+.menubar{
+    background-color:rgba(30,30,30,255);
+    overflow: hidden;
+}
+.menubar a{
+    width: fit-content;
+    padding: 16px 18px;
+    font-style: italic;
+    float: left;
+    text-decoration: none;
+    color: rgba(134,134,134,255);
+
+}
+.reg{
+    background-image: url(https://toppng.com/uploads/preview/person-icon-white-icon-11553393970jgwtmsc59i.png);
+    width: fit-content;
+    vertical-align: top;
+}
+.reg a{
+    font-size: x-large;
+    text-decoration: none;
+    color:black;
+}
+.req{
+    width: fit-content;
+    position: relative;
+    top: -170px;
+}
+.req a{
+     text-decoration: none;
+     font-size: xx-large;
+
+}
+.subtext{
+    background-color:rgba(153, 199, 61, 0.411);
+    font-size: 25px;
+}
+.subtext a{
+    width: fit-content;
+    padding: 12px 14px;
+    text-align: left;
+}
+.text1{
+    width: fit-content;
+    position: relative;
+    top: -1130px;
+    left: 560px;
+    font-size: 25px;
+    font-style: italic;
+}
+.text2{
+    width: fit-content;
+    position: relative;
+    top: -1118px;
+    left: 560px;
+    font-size: 25px;
+    font-style: italic;
+}
+.text3{
+    width: fit-content;
+    position: relative;
+    top: -1080px;
+    left: 560px;
+    font-size: 25px;
+    font-style: italic;
+}
+.text4{
+    width: fit-content;
+    position: relative;
+    top: -1038px;
+    left: 560px;
+    font-size: 25px;
+    font-style: italic;
+}
+.text5{
+    width: fit-content;
+    position: relative;
+    top: -2148px;
+    left: 915px;
+    font-style: italic;
+    font-size: 25px;
+}
+.text6{
+    width: fit-content;
+    position: relative;
+    top: -2640px;
+    left: 840px;
+    font-style: italic;
+    font-size: 25px;
+}
+.text7{
+    width: fit-content;
+    position: relative;
+    top: -2600px;
+    left: 910px;
+    font-size: 25px;
+    font-style: italic;
+
+}
+.text8{
+    width: fit-content;
+    position: relative;
+    top: -1800px;
+    left: 880px;
+    font-size: 25px;
+    font-style: italic;
+    
+}
+.text9{
+    width: fit-content;
+    position: relative;
+    top: -2855px;
+    left: 1595px;
+    font-size: 25px;
+    font-style: italic;
+
+}
+.text10{
+    width: fit-content;
+    position: relative;
+    left: 1600px;
+    top: -1550px;
+    font-style: italic;
+    font-size: 25px;
+    
+}
+.text11{
+    width: fit-content;
+    position: relative;
+    left: 1640px;
+    top: -3400px;
+    font-size: 25px;
+    font-style: italic;
+}
+.text12{
+    width: fit-content;
+    position: relative;
+    left: 1610px;
+    top: -3927px;
+    font-size: 25px;
+    font-style: italic;
+
+}
+.text13{
+    width: fit-content;
+    position: relative;
+    left: 1257px;
+    top: -4180px;
+    font-size: 25px;
+    font-style: italic;
+}
+.text14{
+    width: fit-content;
+    position: relative;
+    left: 1257px;
+    top: -4160px;
+    font-size: 25px;
+    font-style: italic;
+}
+.text15{
+    width: fit-content;
+    position: relative;
+    left: 1257px;
+    top: -4130px;
+    font-size: 25px;
+    font-style: italic;
+}
+.text16{
+    width: fit-content;
+    position: relative;
+    left: 1257px;
+    top: -4090px;
+    font-size: 25px;
+    font-style: italic;
+}
+.subnaut{
+    margin-left: 100px;
+}
+.raft{
+    margin-left: 100px;
+}
+.nfsw5{
+    margin-left: 100px;
+}
+.sv{
+    margin-left: 100px;
+}  
+.img{
+margin-left: 140px;
+margin-top: 20px;
+font-size: 25px;
+font-style: italic;
+}
+.img1{
+    margin-left: 180px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    font-size: 25px;
+    font-style: italic;
+}
+ .img2{
+        margin-left: 3%;
+        margin-bottom: 20px;
+        margin-top: 20px;
+        font-size: 25px;
+        font-style: italic;
+    }
+        .img3{
+            margin-left: 7%;
+            margin-bottom: 20px;
+            margin-top: 20px;
+            font-size: 25px;
+            font-style: italic;
+     }
+            .img4{
+                width: fit-content;
+                position: relative;
+                top: -1145px;
+                left: 500px;
+                font-size: 25px;
+                font-style: italic;
+            }
+            .img5{
+                width: fit-content;
+                position: relative;
+                top: -1129px;
+                left: 500px;
+                font-size: 25px;
+                font-style: italic;
+            }
+                .img6{
+                    width: fit-content;
+                    position: relative;
+                    top: -1093px;
+                    left: 500px;
+                    font-size: 25px;
+                    font-style: italic;
+                }
+                    .img7{
+                        width: fit-content;
+                        position: relative;
+                        top: -1054px;
+                        left: 500px;
+                        font-size: 25px;
+                        font-style: italic;
+                    }
+                    .img8{
+                        width: fit-content;
+                        position: relative;
+                        top: -2161px;
+                        left: 850px;
+                        font-size: 25px;
+                        font-style: italic;
+
+                    }
+                    .img9{
+                        width: fit-content;
+                        position: relative;
+                        top: -1561.5px;
+                        left: 1550px;
+                        font-size: 25px;
+                        font-style: italic;
+                    }
+                        .img10{
+                            width: fit-content;
+                            position: relative;
+                            top: -1817px;
+                            left: 850px;
+                            font-size: 25px;
+                            font-style: italic;
+                        }
+                            .img11{
+                                width: fit-content;
+                                position: relative;
+                                top: -2650px;
+                                left: 850px;
+                                font-size: 25px;
+                                font-style: italic;
+                            }
+                                .img12{
+                                    width: fit-content;
+                                    position: relative;
+                                    top: -2617px;
+                                    left: 850px;
+                                    font-size: 25px;
+                                    font-style: italic;
+                                }
+                                .img13{
+                                    width: fit-content;
+                                    position: relative;
+                                    top: -3430px;
+                                    left: 1550px;
+                                    font-size: 25px;
+                                    font-style: italic;
+                                }
+                                .img14{
+                                    width: fit-content;
+                                    position: relative;
+                                    top: -3413px;
+                                    left: 1550px;
+                                    font-size: 25px;
+                                    font-style: italic;
+                                }
+                                .img15{
+                                    width: fit-content;
+                                    position: relative;
+                                    top: -3376px;
+                                    left: 1550px;
+                                    font-size: 25px;
+                                    font-style: italic;
+                                }
+                                .img16{
+                                    width: fit-content;
+                                    position: relative;
+                                    top: -4193px;
+                                    left: 1200px;
+                                    font-size: 25px;
+                                    font-style: italic;
+                                }
+                                .img17{
+                                    width: fit-content;
+                                    position: relative;
+                                    top: -4173px;
+                                    left: 1200px;
+                                    font-size: 25px;
+                                    font-style: italic;
+                                }
+                                .img18{
+                                    width: fit-content;
+                                    position: relative;
+                                    top: -4140px;
+                                    left: 1200px;
+                                    font-size: 25px;
+                                    font-style: italic;
+                                }
+                                .img19{
+                                    width: fit-content;
+                                    position: relative;
+                                    top: -4100px;
+                                    left: 1200px;
+                                    font-size: 25px;
+                                    font-style: italic;
+                                }
+
